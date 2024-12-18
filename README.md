@@ -60,15 +60,15 @@ npm start
 
 ```plaintext
 express-ts/
-â”œâ”€â”€ src/
-â”‚   â”œâ”€â”€ routes/         # Example 
-â”‚   â”œâ”€â”€ utils/          # Utility functions
-â”‚   â”œâ”€â”€ app.ts          # Express app configuration
-â”‚   â””â”€â”€ server.ts       # Server entry point
-â”œâ”€â”€ .env.example        # Environment variable template
-â”œâ”€â”€ tsconfig.json       # TypeScript configuration
-â”œâ”€â”€ package.json        # Dependencies and scripts
-â””â”€â”€ README.md           # Project documentation
+ src/
+ routes/         # Example 
+ utils/          # Utility functions
+ index.ts          # Express app configuration
+    
+.env.example        # Environment variable template
+ tsconfig.json       # TypeScript configuration
+ package.json        # Dependencies and scripts
+ README.md           # Project documentation
 ```
 
 ---
